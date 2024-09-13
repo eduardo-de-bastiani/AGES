@@ -9,14 +9,14 @@ Welcome to the repository that highlights my journey through the Software Engine
 ## PAINEL CONSTRU (AGES II)
 - <ins>**Description:**</ins> 
 - <ins>**Technologies:**</ins> 
-- [Link to the Repository]()
+- [Link to the Repository](https://tools.ages.pucrs.br/industria-digital)
 
 ## HOOR TECH (CLIENT) 
 *Special participation as AGES client*
 
 - <ins>**Description:**</ins> 
 - <ins>**Technologies:**</ins> 
-- [Link to the Repository]()
+- [Link to the Repository](https://tools.ages.pucrs.br/hoortech)
 
 ## 🏆 Highlights
 - Highlight Project Award for the Easy Choose Project (AGES I) 
