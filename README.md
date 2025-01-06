@@ -3,24 +3,24 @@ Welcome to the repository that highlights my journey through the Software Engine
 
 ## EASY CHOOSE (AGES I):
 - <ins>**Description:**</ins> Software solution designed to help people choose the ideal supplements
-- <ins>**Technologies:**</ins> NodeJS, TypeScript, JavaScript, React, Postgres, Prisma, Selenium
+- <ins>**Technologies:**</ins> NodeJS, TypeScript, JavaScript, React, PostgreSQL, Docker, Prisma, Selenium
 - [Link to the Repository](https://tools.ages.pucrs.br/easy-choose)
 
 ## PAINEL CONSTRU (AGES II)
-- <ins>**Description:**</ins> 
-- <ins>**Technologies:**</ins> 
+- <ins>**Description:**</ins> Platform for searching, aggregating, and evaluating companies' digital presence across Google, Instagram, and LinkedIn.
+- <ins>**Technologies:**</ins> Python, TypeScript, FastAPI, PostgreSQL, Docker Swarm, SqlAlchemy, Pytest, Cypress 
 - [Link to the Repository](https://tools.ages.pucrs.br/industria-digital)
 
-## HOOR TECH (CLIENT) 
+## HOORTECH (CLIENT) 
 *Special participation as AGES client*
 
-- <ins>**Description:**</ins> 
-- <ins>**Technologies:**</ins> 
+- <ins>**Description:**</ins> Web application leveraging Machine Learning to enhance communication for deaf individuals by translating Brazilian Sign Language (LIBRAS) into Portuguese through camera input.
+- <ins>**Technologies:**</ins> Python, TensorFlow, JavaScript, React, PostgreSQL
 - [Link to the Repository](https://tools.ages.pucrs.br/hoortech)
 
 ## 🏆 Highlights
 - Highlight Project Award for the Easy Choose Project (AGES I) 
-  
+- Highlight Project Award for the HoorTech Project (CLIENT) 
 
 ## 🙌 Acknowledgements
 
