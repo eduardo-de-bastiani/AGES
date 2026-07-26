@@ -18,6 +18,12 @@ Welcome to the repository that highlights my journey through the Software Engine
 - <ins>**Technologies:**</ins> Python, TensorFlow, JavaScript, React, PostgreSQL
 - [Link to the Repository](https://tools.ages.pucrs.br/hoortech)
 
+## IMPINJ RFID (AGES III)
+
+- <ins>**Description:**</ins> Parking lot system using RFID readers integrated with live dashboard
+- <ins>**Technologies:**</ins> C#, TypeScript, React, Bun, PostgreSQL, SonarCloud 
+- [Link to the Repository]([https://tools.ages.pucrs.br/industria-digital](https://tools.ages.pucrs.br/sistema-de-controle-inteligente-de-estacionamento-com-rfid))
+
 ## 🏆 Highlights
 - Highlight Project Award for the Easy Choose Project (AGES I) 
 - Highlight Project Award for the HoorTech Project (CLIENT) 
