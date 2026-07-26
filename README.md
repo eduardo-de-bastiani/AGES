@@ -22,7 +22,7 @@ Welcome to the repository that highlights my journey through the Software Engine
 
 - <ins>**Description:**</ins> Parking lot system using RFID readers integrated with live dashboard
 - <ins>**Technologies:**</ins> C#, TypeScript, React, Bun, PostgreSQL, SonarCloud 
-- [Link to the Repository]([https://tools.ages.pucrs.br/industria-digital](https://tools.ages.pucrs.br/sistema-de-controle-inteligente-de-estacionamento-com-rfid))
+- [Link to the Repository]([https://tools.ages.pucrs.br/industria-digital](https://tools.ages.pucrs.br/sistema-de-controle-inteligente-de-estacionamento-com-rfid)
 
 ## 🏆 Highlights
 - Highlight Project Award for the Easy Choose Project (AGES I) 
